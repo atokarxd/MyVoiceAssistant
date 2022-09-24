@@ -1,0 +1,40 @@
+{
+    "Music_data_Genres": [
+         {
+              "name": "Hip-Hop",
+              "point": 0
+         },
+         {
+              "name": "Pop",
+              "point": 0
+         },
+         {
+              "name": "Classical",
+              "point": 0
+         },
+         {
+              "name": "Electronic",
+              "point": 0
+         },
+         {
+              "name": "Latin",
+              "point": 0
+         },
+         {
+              "name": "Jazz",
+              "point": 0
+         },
+         {
+              "name": "Rock",
+              "point": 0
+         },
+         {
+              "name": "Metal",
+              "point": 0
+         },
+         {
+              "name": "K-Pop",
+              "point": 0
+         }
+    ]
+}

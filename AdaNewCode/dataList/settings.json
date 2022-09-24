@@ -1,0 +1,11 @@
+{
+"BaseSetting" : {
+    "Username" : null,
+    "Password" : null,
+    "Assistant_Nickname" : null
+},
+"MailSetting" : {
+    "Username" : null,
+    "Password" : null
+}
+}

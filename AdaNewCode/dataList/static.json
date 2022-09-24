@@ -1,0 +1,24 @@
+{
+    "User_Details": [
+        {
+            "name": "Music",
+            "point": 0
+        },
+        {
+            "name": "Email",
+            "point": 0
+        },
+        {
+            "name": "Joke",
+            "point": 0
+        },
+        {
+            "name": "I_love_you",
+            "point": 0
+        },
+        {
+            "name": "Talk_dirty",
+            "point": 0
+        }
+    ]
+}
